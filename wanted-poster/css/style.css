@@ -73,7 +73,8 @@ h2 {
     font-size: 3rem;
     letter-spacing: 0.25rem;
     text-align:center; 
-    font-weight:normal;}
+    font-weight:normal;
+}
 
 h3 {  
     text-transform: uppercase;
@@ -82,7 +83,8 @@ h3 {
     font-family:'Alfa Slab One', Garamond, serif;
     font-size: 2rem;
     font-weight: normal;
-    text-align:center;}
+    text-align:center;
+}
 
 h4 {
     text-transform: uppercase;
@@ -93,7 +95,8 @@ h4 {
     letter-spacing: 0.25rem;
     font-weight: normal;
     padding-bottom: 1.125rem;
-    text-align: center;}
+    text-align: center;
+}
 
 
 h5 {
