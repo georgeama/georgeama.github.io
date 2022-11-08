@@ -81,7 +81,8 @@ header, footer {
 
 @font-face {
     font-family: montserrat;
-    src: url(/font/montserrat-regular.ttf);
+    src: url(/fonts/montserrat-regular.ttf)
+     ;
     font-weight: normal;
     font-style: normal;
 }
@@ -89,7 +90,7 @@ header, footer {
 @font-face {
 
     font-family: josefinslab;
-    src: url(/font/montserrat-regular.ttf);
+    src: url(/josefinslab-regular.ttf);
     font-weight: normal;
     font-style: normal;
 }
@@ -142,7 +143,7 @@ li {
 }
 
 figcaption {
-    font-size: 0.75rem.
+    font-size: 0.75rem;
     margin-bottom: 2rem;
 
 }
