@@ -215,7 +215,8 @@ nav a {
 
 nav {
     border-top: 1px #732C2C;
-    border-bottom: 1px solid #732C2C
+    border-bottom: 1px #732C2C;
+   
 
 }
 nav a:focus, nav a:hover {
@@ -229,4 +230,12 @@ nav a:active {
     background-color: black;
 }
 
+.button {
+    font-size: 1.5rem;
+    padding: 1.25rem;
+    font-family: ultra, georgia, serif;
+    color: #e45f5f;
+    border: #33658A;
+    
+}
 
