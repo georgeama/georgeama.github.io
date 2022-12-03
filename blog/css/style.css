@@ -243,8 +243,10 @@ nav a:active {
 
 
 .expand {
-    size: .5px;
+    text-overflow: ellipsis;
 }
+
+
 
 
 
