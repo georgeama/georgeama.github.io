@@ -130,6 +130,16 @@ header {
     text-align: center;
 }
 
+button {
+    width: 200px;
+    height: 150px;
+    margin: 10px;
+    padding: 25px;
+    border: 5px solid saddlebrown;
+
+
+}
+
 
 nav {
     margin-top: 3rem;
@@ -213,8 +223,8 @@ nav a {
 }
 
 nav {
-    border-top: #732C2C;
-    border-bottom: #732C2C;
+    border-top: 25px solid #732C2C;
+    border-bottom: 25px solid #732C2C;
 }
 nav a:focus, nav a:hover {
     color: #fff;
