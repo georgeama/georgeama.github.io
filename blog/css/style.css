@@ -138,6 +138,8 @@ button {
     border: 10px solid saddlebrown;
     font-size: 14px;
     font-family: ulta;
+    color: #fff;
+    background-color: black;}
 
 
 }
@@ -238,7 +240,4 @@ nav a:active {
     color: #fff;
         background-color: black;}
 
-.button {
-    color: #732C2C;
 
-}
