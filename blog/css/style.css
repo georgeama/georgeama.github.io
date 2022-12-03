@@ -168,14 +168,30 @@ aside {
     grid-row: 1;
     border-left: 1px solid #732C2C;
     padding-left: 0.75rem;
-
+    
 }
+
+
 
 aside p {
     border-bottom: 1px solid #888;
     padding-bottom: 0.25rem;
-    
+    white-space: nowrap;
+    overflow: scroll;
 
+
+}
+
+.expand {
+    text-overflow: clip clip;
+}
+
+.edxpand {text-overflow: clip ellipsis;
+
+}
+
+.expand {
+    text-overflow: ellipsis "[...]";
 }
 
 
@@ -242,9 +258,7 @@ nav a:active {
     }
 
 
-.expand {
-    text-overflow: ellipsis;
-}
+
 
 
 
