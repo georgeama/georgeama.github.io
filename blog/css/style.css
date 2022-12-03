@@ -218,16 +218,8 @@ nav a {
     border-bottom: 1px #732C2C;
    
 }
-nav a:focus, nav a:hover {
-    color: #fff;
-    background-color: #33658A;
 
-}
 
-nav a:active {
-    color: #fff;
-    background-color: black;
-}
 
 .Subscribe input[type="submit"] {
     background-color: #a34caf; /* Green */
