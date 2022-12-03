@@ -160,6 +160,7 @@ aside {
 aside p {
     border-bottom: 1px solid #888;
     padding-bottom: 0.25rem;
+    
 
 }
 
@@ -213,11 +214,19 @@ nav a {
     color: #732C2C;
 }
 
-nav a {
-    border-top: 1px #732C2C;
-    border-bottom: 1px #732C2C;
-   
+nav {
+    border-top: #732C2C;
+    border-bottom: #732C2C;
 }
+nav a:focus, nav a:hover {
+    color: #fff;
+    background-color: #33658A;
+
+}
+
+nav a:active {
+    color: #fff;
+        background-color: black;}
 
 
 
@@ -225,3 +234,4 @@ nav a {
     background-color: #a34caf; /* Green */
     color: #ffffff;  /* White */
     text-transform: uppercase;}
+
