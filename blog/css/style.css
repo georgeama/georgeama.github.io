@@ -182,16 +182,9 @@ aside p {
 
 }
 
-.expand {
-    text-overflow: clip clip;
-}
-
-.edxpand {text-overflow: clip ellipsis;
-
-}
 
 .expand {
-    text-overflow: ellipsis "[...]";
+    text-overflow: ellipsis "[..]";
 }
 
 
