@@ -1,4 +1,4 @@
-@ -1,194 +1,195 @@
+
 /* TO GET AN IDEA OF THE CSS YOU WILL LIKELY BE USING, SEE THE LISTS BELOW. */
 
         /* 
@@ -229,11 +229,7 @@ nav a:active {
     background-color: black;
 }
 
-button {
-    font-size: 1.5rem;
-    padding: 1.25rem;
-    font-family: ultra, georgia, serif;
-    color: #e45f5f;
-    border: #33658A;
-}
-
+.Subscribe input[type="submit"] {
+    background-color: #a34caf; /* Green */
+    color: #ffffff;  /* White */
+    text-transform: uppercase;}
