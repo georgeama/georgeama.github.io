@@ -170,8 +170,6 @@ aside p {
 }
 
 
-
-
 img {
     width: 100%;
 }
@@ -228,10 +226,7 @@ nav a:active {
     color: #fff;
         background-color: black;}
 
+.button {
+    color: #732C2C;
 
-
-.button input[type="Subscribe"] {
-    background-color: #a34caf; /* Green */
-    color: #ffffff;  /* White */
-    text-transform: uppercase;}
-
+}
