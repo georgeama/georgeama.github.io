@@ -121,13 +121,8 @@ body {
     width: 90%;
     min-width:56.25rem;
     padding: 50px;
-
 }
 
-div {
-    display: flex;
-    justify-content: center;
-}
 
 /* layout */
 header {
