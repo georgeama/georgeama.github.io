@@ -124,6 +124,14 @@ body {
 
 
 /* layout */
+header {
+    padding: 0.5rem 0rem 1rem 0rem;
+}
+
+
+nav {
+    margin-top: 3rem;
+}
 
 .main-section {
     display: grid;
@@ -206,5 +214,7 @@ nav {
     border-bottom: 1px solid #732C2C;
 
 }
+
+
 
 
