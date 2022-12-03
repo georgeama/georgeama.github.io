@@ -108,8 +108,8 @@ h1 {
 
 /* general setup and defaults */
 
-{
-    box-sizing: border-box;
+* {
+   box-sizing: border-box; 
 }
 
 html {
@@ -187,13 +187,13 @@ figure {
 
 
 .subsection figure {
-    margin: 0rem 0.25rem;
+    margin: 0.5rem 0.5rem;
     background-color: #ffefdf;
 
 }
 
 .subsection figure figcaption {
-    padding: 0.5rem 0.5rem;
+    padding: 1rem 1rem;
 
 }
 
