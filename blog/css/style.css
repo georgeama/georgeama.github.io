@@ -189,6 +189,7 @@ figure {
 .subsection figure {
     margin: 0.5rem 0.5rem;
     background-color: #ffefdf;
+    display: flex;
 
 }
 
