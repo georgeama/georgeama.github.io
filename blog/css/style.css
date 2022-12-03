@@ -221,7 +221,7 @@ nav a {
 
 
 
-.Subscribe input[type="submit"] {
+.button input[type="Subscribe"] {
     background-color: #a34caf; /* Green */
     color: #ffffff;  /* White */
     text-transform: uppercase;}
