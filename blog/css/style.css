@@ -52,17 +52,26 @@
 
 @font-face{
     font-family: "ultra";
-    src: url('../fonts/serif/ultra-regular.ttf');
+    src: url('../fonts/serif/ultra-regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 
 }
 
-font-face {
+@font-face {
     font-family: 'roboto';
+    src: url('../fonts/sans-serif/roboto-regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
+
+@font-face {
+    font-family: 'lato';
+    src: url('../fonts/sans-serif/lato-regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 
 /* Typogrophy */
 
@@ -71,7 +80,7 @@ p{
 
 }
 
-h1, h2, h3, h4, {
+h1, h2, h3, h4 {
     font-family: lato, helvetica, sans-serif;
     letter-spacing: 0.0325rem;
 }
@@ -149,6 +158,8 @@ aside p {
     display: flex;
 }
 
+
+
 img {
     width: 100%;
 }
@@ -157,17 +168,13 @@ figure {
     margin: 0px;
 }
 
-article-image {
+.article-image {
     width: 33%;
     float: left;
     margin-right: 0.75;
 
 }
 
-.subsection {
-    margin: 1rem 0rem;
-
-}
 
 .subsection figure {
     margin: 0rem 0.25rem;
