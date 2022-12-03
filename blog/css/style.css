@@ -142,6 +142,9 @@ button {
     background-color: black;}
 
 
+}
+
+
 nav {
     margin-top: 3rem;
 }
@@ -165,12 +168,13 @@ aside {
     grid-row: 1;
     border-left: 1px solid #732C2C;
     padding-left: 0.75rem;
-    
+
 }
 
 aside p {
     border-bottom: 1px solid #888;
     padding-bottom: 0.25rem;
+    
 
 }
 
@@ -236,8 +240,6 @@ nav a:active {
     color: #fff;
         background-color: black;
     }
-
-
 
 
 
