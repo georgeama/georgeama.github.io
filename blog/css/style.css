@@ -142,9 +142,6 @@ button {
     background-color: black;}
 
 
-}
-
-
 nav {
     margin-top: 3rem;
 }
@@ -180,11 +177,6 @@ aside p {
     overflow: scroll;
 
 
-}
-
-
-.expand {
-    text-overflow: ellipsis "[..]";
 }
 
 
