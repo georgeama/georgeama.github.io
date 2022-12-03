@@ -229,12 +229,11 @@ nav a:active {
     background-color: black;
 }
 
-.button {
+button {
     font-size: 1.5rem;
     padding: 1.25rem;
     font-family: ultra, georgia, serif;
     color: #e45f5f;
     border: #33658A;
-
 }
 
