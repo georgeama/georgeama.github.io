@@ -143,6 +143,7 @@ button {
 
 
 
+
 nav {
     margin-top: 3rem;
 }
@@ -213,13 +214,9 @@ figure {
     color: 10px solid #000;
     position: absolute;
     bottom: 0;
-    
-    }
-
-.subsection .attribution {
     left: 0;
-
-}
+    right: 0;
+    }
 
 
 a {
