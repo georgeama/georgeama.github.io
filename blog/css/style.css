@@ -142,8 +142,6 @@ button {
     background-color: black;}
 
 
-}
-
 
 nav {
     margin-top: 3rem;
@@ -215,9 +213,13 @@ figure {
     color: 10px solid #000;
     position: absolute;
     bottom: 0;
-    left: 0;
-    right: 0;
+    
     }
+
+.subsection .attribution {
+    left: 0;
+
+}
 
 
 a {
