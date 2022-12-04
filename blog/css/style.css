@@ -220,8 +220,6 @@ figure {
     }
 
 
-
-
 a {
     text-decoration: none;
 }
@@ -260,6 +258,10 @@ nav a:active {
         border:1px solid;
         text-overflow: ellipsis;
       }
+
+.attribution {
+    align-items: right;
+}      
 
 
 
