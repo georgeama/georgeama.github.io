@@ -210,13 +210,16 @@ figure {
 
 }
 .subsection figure figcaption {
-    padding: 0.5rem 0.5rem;
-    background-color: 5px solid #732C2C;
-    color: 10px solid #33658A;
-position: fixed;}
-
-
-  
+position: fixed;
+width: 150px;
+    height: 100x;
+    margin: 2px;
+    padding: 10px;
+    border: 10px solid saddlebrown;
+    font-size: 14px;
+    font-family: ulta;
+    color: #fff;
+    background-color: black;}
 
 
 
