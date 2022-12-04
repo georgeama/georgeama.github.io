@@ -247,11 +247,11 @@ nav a:active {
         background-color: black;
     }
 
-    .#expand {
+    .expand {
         height:300px;
         background-color:#FFFFFF;
       }
-      .#expand# { 
+      .expand { 
         width:200px;
         white-space: nowrap;
         overflow: hidden;
