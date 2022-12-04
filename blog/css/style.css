@@ -142,6 +142,7 @@ button {
     background-color: black;}
 
 
+}
 
 
 nav {
@@ -204,19 +205,21 @@ figure {
 
 .subsection figure {
     margin: 0.5rem 0.5rem;
-    background-color: #cea67e;
+    background-color: #ffefdf;
     display: flex;
 
 }
-.subsection figure img figcaption {
-    padding: 1rem 1rem;
+.subsection figure figcaption {
+    padding: 0.5rem 0.5rem;
     background-color: 5px solid #732C2C;
-    color: 10px solid #000;
+    color: 10px solid #black;
     position: absolute;
     bottom: 0;
     left: 0;
     right: 0;
     }
+
+
 
 
 a {
@@ -246,21 +249,17 @@ nav a:active {
         background-color: black;
     }
 
-    .expand {
+    #expand {
         height:300px;
         background-color:#FFFFFF;
       }
-      .expand { 
+      #expand { 
         width:200px;
         white-space: nowrap;
         overflow: hidden;
         border:1px solid;
         text-overflow: ellipsis;
       }
-
-.attribution {
-    align-items: right;
-}      
 
 
 
