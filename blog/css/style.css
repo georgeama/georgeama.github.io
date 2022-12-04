@@ -211,8 +211,16 @@ figure {
 }
 .subsection figure figcaption {
     padding: 0.5rem 0.5rem;
+    background-color: 5px solid #732C2C;
+    color: 10px solid #000;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    }
 
-}
+
+
 
 a {
     text-decoration: none;
