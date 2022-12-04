@@ -209,7 +209,7 @@ figure {
     display: flex;
 
 }
-.subsection figure figcaption {
+.subsection figure a figcaption {
     padding: 1rem 1rem;
     background-color: 5px solid #732C2C;
     color: 10px solid #000;
