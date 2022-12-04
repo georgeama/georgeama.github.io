@@ -241,7 +241,17 @@ nav a:active {
         background-color: black;
     }
 
-
+    #expand {
+        height:300px;
+        background-color:#FFFFFF;
+      }
+      #expand { 
+        width:200px;
+        white-space: nowrap;
+        overflow: hidden;
+        border:1px solid;
+        text-overflow: ellipsis;
+      }
 
 
 
