@@ -205,11 +205,11 @@ figure {
 
 .subsection figure {
     margin: 0.5rem 0.5rem;
-    background-color: #ffefdf;
+    background-color: #cea67e;
     display: flex;
 
 }
-.subsection a figure figcaption {
+.subsection figure figcaption {
     padding: 1rem 1rem;
     background-color: 5px solid #732C2C;
     color: 10px solid #000;
